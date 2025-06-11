@@ -1,3 +1,6 @@
+* {
+  background: grey;
+}
 
 .hole {
   background: url("/hole.png") no-repeat center/contain;
